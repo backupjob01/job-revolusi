@@ -4,6 +4,7 @@ RENCANA KONTEN JOB
    *  ES6
    *  Framework Javascript
       ^ View
+      ^ React
 - Fundamental Data Structure
 - PHP Framework
   ^ Pyhton
